@@ -18,13 +18,11 @@ Following this, I saved this dictionary using the module Pickle so I would only 
 >
 > exterminated
  
- 
 > skilled monogamy
 >
 > nondiscriminatory
 >
 > invigorated
- 
  
 > x. undiagnosed    <- seemed like something out of sci-fi
 >
