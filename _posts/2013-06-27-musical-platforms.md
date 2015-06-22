@@ -11,4 +11,5 @@ This project is still in its early stages, but I do have platforms that play a n
 I will update my progress on this game as I incorporate new features and more importantly once there is actually some form of gameplay other than just moving about the platforms.
 
 In the meantime, I've recorded a short video demoing the game in its current state. 
+
 <iframe width="640" height="390" src="https://www.youtube.com/embed/jlcW2QRyNHA" frameborder="0" allowfullscreen></iframe>
