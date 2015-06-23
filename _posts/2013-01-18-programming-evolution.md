@@ -15,10 +15,12 @@ The video below illustrates the fascinating results of this study. Creatures wer
 
 This study and other research I did on the topic inspired me to try to create my own simulation of evolution. My simulation is currently a work in progress. I am using Python with the Pygame graphics library in order to implement a very basic simulation of evolution due to natural selection (based on the organisms’ abilities to acquire food). Currently my “organisms” consist of two different colored squares (male and female). These organisms have three different important traits: speed, size, and how often they switch directions while moving around the screen. Organisms start out with a certain amount of health and their health decreases over time. If an organism’s health goes down to zero, the organism dies.
 
-![image](http://media.tumblr.com/76f79983b81e4257d1b491961c23788f/tumblr_inline_mgt5b0usUr1renss6.png)
+>![image](http://media.tumblr.com/76f79983b81e4257d1b491961c23788f/tumblr_inline_mgt5b0usUr1renss6.png)
+>
 > Organisms with randomly generated traits moving around a screen with randomly spawned food.
 
 As of now, I am in the process of implementing reproduction. By selecting for the top food acquiring organisms (and therefore the most evolutionary fit) in each generation and allowing them to reproduce, I believe that certain trends will become apparent. I plan to update my progress on this simulation in the near future.
 
-![image](http://media.tumblr.com/bf55804862d639fe9ab08b75ecb1068f/tumblr_inline_mgt5doHkc91renss6.png)
+>![image](http://media.tumblr.com/bf55804862d639fe9ab08b75ecb1068f/tumblr_inline_mgt5doHkc91renss6.png)
+>
 > The last four remaining organisms from this simulation. As organisms decrease in health their color fades.

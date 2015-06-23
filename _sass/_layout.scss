@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid lightslategray;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    background-color:#0087CB;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -16,10 +16,14 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-
+    
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: white;
+    }
+    
+    &:link {
+        color: white;
     }
 }
 
@@ -32,13 +36,14 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
+        
     }
 
     @include media-query($on-palm) {
@@ -172,9 +177,16 @@
 .post-list {
     margin-left: 0;
     list-style: none;
-
+  //  $colors: #FFA200, #00A03E, #24A8AC, #982395;
+  //  @for $i from 1 through length($colors) {
+   //     li:nth-child(#{length($colors)}n+#{$i}) {
+     //       background: nth($colors, $i)
+   //     }
+    //}
+    
     > li {
         margin-bottom: $spacing-unit;
+        
     }
 }
 
