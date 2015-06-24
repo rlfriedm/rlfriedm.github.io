@@ -7,6 +7,7 @@ paginate: 10
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rachelf.com" # the base hostname & protocol for your site
 
+linkedin_link: "https://www.linkedin.com/pub/rachel-friedman/6a/781/83b"
 github_username:  rlfriedm
 
 # Build settings
