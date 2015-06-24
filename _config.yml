@@ -5,7 +5,7 @@ email: therachelfriedman@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 paginate: 10
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://rachelf.com" # the base hostname & protocol for your site
 
 github_username:  rlfriedm
 
