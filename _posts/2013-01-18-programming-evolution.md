@@ -11,7 +11,14 @@ The most interesting resource I have found on the topic of evolutionary simulati
 
 The video below illustrates the fascinating results of this study. Creatures were evolved for everything from being the fastest on land to being the fastest to grab a green cube. In the green cube scenario, the creature closest to the cube at the end of the simulation was declared the winner. Many different strategies to acquire the cube evolved, such as an arm to reach out and grab it and a two armed technique which involved swiping the cube from the side and then moving the cube over to a second arm in order to hold it. Others yet developed a strategy that involved preventing their opponents from acquiring the cube versus trying to acquire it themselves.
 
-<iframe src="http://archive.org/embed/sims_evolved_virtual_creatures_1994" height="480" width="640" frameborder="0"></iframe>
+<p>
+<div class="auto-resizable-iframe">
+	<div>
+		<iframe width="640" height="390" id="youtube_iframe" src="http://archive.org/embed/sims_evolved_virtual_creatures_1994" frameborder="0"></iframe>
+	</div>
+</div>
+</p>
+
 
 This study and other research I did on the topic inspired me to try to create my own simulation of evolution. My simulation is currently a work in progress. I am using Python with the Pygame graphics library in order to implement a very basic simulation of evolution due to natural selection (based on the organisms’ abilities to acquire food). Currently my “organisms” consist of two different colored squares (male and female). These organisms have three different important traits: speed, size, and how often they switch directions while moving around the screen. Organisms start out with a certain amount of health and their health decreases over time. If an organism’s health goes down to zero, the organism dies.
 

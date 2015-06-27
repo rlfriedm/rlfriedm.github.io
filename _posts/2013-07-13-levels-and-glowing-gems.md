@@ -18,6 +18,14 @@ I’m currently thinking of more ideas as far as gameplay and also story. One th
 
 Below is a video showing some of the new things:
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/0pcT8nKD2vs" frameborder="0" allowfullscreen></iframe>
+<p>
+<div class="auto-resizable-iframe">
+	<div>
+		<iframe width="640" height="390" id="youtube_iframe" src="https://www.youtube.com/embed/0pcT8nKD2vs" frameborder="0"></iframe>
+	</div>
+</div>
+</p>
+
+
 
 (Arrow keys to move, space bar to jump. Note: there are only 4 levels currently and the game loops back to the beginning after the 4th level)

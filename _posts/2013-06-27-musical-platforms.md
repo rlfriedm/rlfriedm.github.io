@@ -12,4 +12,10 @@ I will update my progress on this game as I incorporate new features and more im
 
 In the meantime, I've recorded a short video demoing the game in its current state. 
 
-<iframe width="640" height="390" src="https://www.youtube.com/embed/jlcW2QRyNHA" frameborder="0" allowfullscreen></iframe>
+<p>
+<div class="auto-resizable-iframe">
+	<div>
+		<iframe width="640" height="390" id="youtube_iframe" src="https://www.youtube.com/embed/jlcW2QRyNHA" frameborder="0"></iframe>
+	</div>
+</div>
+</p>
