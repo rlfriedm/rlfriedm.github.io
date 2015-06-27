@@ -10,7 +10,7 @@ Here's a video of the project in its current state right now:
 <p>
 <div class="auto-resizable-iframe">
 	<div>
-		<iframe width="640" height="390" id="youtube_iframe" src="https://www.youtube.com/embed/Bgx0IF7K61U?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0"></iframe>
+		<iframe width="640" height="390" id="youtube_iframe" allowfullsreen="yes" src="https://www.youtube.com/embed/Bgx0IF7K61U?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0"></iframe>
 	</div>
 </div>
 </p>
