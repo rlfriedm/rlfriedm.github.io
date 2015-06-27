@@ -215,11 +215,11 @@
     display: block;
     font-size: 24px;
        &:visited {
-        color: #D84315;
+        color: #00897B;
     }
     
     &:link {
-        color: #D84315;
+        color: #00897B;
     }
 }
 
@@ -236,7 +236,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-
+    color: #00897B;
     @include media-query($on-laptop) {
         font-size: 36px;
     }

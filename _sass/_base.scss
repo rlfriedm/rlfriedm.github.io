@@ -45,7 +45,16 @@ img {
     vertical-align: middle;
 }
 
+// selection color
+::selection {
+    background: #26A69A;
+    color: white;
+}
 
+::-moz-selection {
+    background: #26A69A;
+    color: white;
+}
 
 /**
  * Figures

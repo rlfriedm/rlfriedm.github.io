@@ -9,5 +9,4 @@ I am excited about Virtual Reality and the potential it has to revolutionize edu
 
 I will soon be starting my career as a Software Engineer at [Google](https://google.com). 
 
----
 ![vrpres]({{site.url}}/assets/vrpres.jpg)
