@@ -198,6 +198,7 @@
     padding: 15px;
     margin: 0;
     background: #ffffff;
+    position: relative;
 }
 
 .post-meta {
@@ -231,6 +232,7 @@
     letter-spacing: -1px;
     line-height: 1;
     color: #00897B;
+    position: relative;
     @include media-query($on-laptop) {
         font-size: 36px;
     }
@@ -238,7 +240,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
-
+    position: relative;
     h2 {
         font-size: 32px;
 
