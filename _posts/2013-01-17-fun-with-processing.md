@@ -5,7 +5,7 @@ date:   2013-01-17 16:52:37
 categories: processing
 ---
 
-Something really simple I just made with [Processing](processing.org). Click and drag to draw or hit "s" to switch to mouse movement drawing mode (no dragging necessary). Hit "r" to reset.
+Something really simple I just made with [Processing](http://processing.org). Click and drag to draw or hit "s" to switch to mouse movement drawing mode (no dragging necessary). Hit "r" to reset.
 
 <div class="auto-resizable-iframe">
 	<div>
