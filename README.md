@@ -1,1 +1,1 @@
-Personal website using Jekyll and hosted via GitHub Pages, found at www.rachelf.com
+Personal website using Jekyll and hosted via GitHub Pages, found at www.cs.rachelf.com
